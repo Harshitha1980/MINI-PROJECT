@@ -1,1 +1,1 @@
-# MINI-PROJECT
+# Miniproject-on-Data-Science
